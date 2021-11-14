@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png "Header")](https://martinheinz.dev/)
 
 # Hello folks!👋
 
@@ -51,7 +51,7 @@ Apart from coding , I also make technical videos. You can check the out on Linke
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AashimaAhuja&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-🔗 &nbsp;**Connect with me**
+## 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
