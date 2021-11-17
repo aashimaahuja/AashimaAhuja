@@ -24,7 +24,7 @@ My name is Aashima Ahuja. I am a Frontend engineer and Content creator. I am fro
 
 Apart from coding , I also make technical videos. You can check the out on LinkedIn
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
